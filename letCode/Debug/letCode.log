@@ -1,0 +1,13 @@
+﻿  arrayCode.cpp
+f:\vs2015program\letcode\letcode\arraycode.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(40): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(43): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(79): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(105): warning C4018: “>”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(159): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+f:\vs2015program\letcode\letcode\arraycode.cpp(166): warning C4018: “>=”: 有符号/无符号不匹配
+  letCode.vcxproj -> F:\vs2015Program\letCode\Debug\letCode.exe
+  letCode.vcxproj -> F:\vs2015Program\letCode\Debug\letCode.pdb (Partial PDB)
