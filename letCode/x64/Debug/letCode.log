@@ -1,0 +1,10 @@
+﻿  reverseInteger.cpp
+g:\github\leetcode\letcode\reverseinteger.cpp(20): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+g:\github\leetcode\letcode\reverseinteger.cpp(74): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+g:\github\leetcode\letcode\reverseinteger.cpp(156): warning C4101: “m”: 未引用的局部变量
+  arrayCode.cpp
+g:\github\leetcode\letcode\arraycode.cpp(33): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+g:\github\leetcode\letcode\arraycode.cpp(59): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  letCode.vcxproj -> G:\GitHub\leetCode\x64\Debug\letCode.exe
+  letCode.vcxproj -> G:\GitHub\leetCode\x64\Debug\letCode.pdb (Partial PDB)
